@@ -1,0 +1,38 @@
+<header style="{{ partial "sidebar/style" . | safeCSS }}">
+
+  <div class="intro">
+    <div class="logo-container">
+      <a href="/">
+        <img src='{{ .Site.Params.sidebar.logo | default "images/edna-west.jpg" | absURL }}' alt="Profile {{ .Title }}" class="rounded-logo">
+      </a>
+    </div>
+    <h2>{{ .Site.Params.intro.main | default "Welcome, I'm John Doe" | emojify }}</h2>
+    <h3>{{ .Site.Params.intro.sub | default "This is my personal website" | emojify }}</h3>
+    <div class="menu">
+      {{ partial "sidebar/menu" . }}
+      {{ if .Site.Params.contact.email }}
+        {{ $email := printf "mailto:%s" .Site.Params.contact.email}}
+        <p>
+            <a href="{{ $email }}" target="_blank" rel="external">
+                {{ .Site.Params.contact.text | emojify }}
+            </a>
+        </p>
+      {{ end }}
+    </div>
+
+  </div>
+
+  <div>
+
+  </div>
+
+  <div class="socials">
+      <a href="/license/gpl" class="social-link"><img src="/images/gplv3-88x31.png" border="0" alt="GPL version 3 logo" width="88" height="31" /></a>
+      <a href="https://jigsaw.w3.org/css-validator/check/referer" class="social-link" target="_blank"><img src="/images/vcss.png" border="0" alt="Valid CSS!" width="88" height="31" /></a>
+      <a href="https://www.getfirefox.com/" class="social-link" target="_blank"><img src="/images/getfirefox.gif" border="0" alt="Get Firefox!" title="Get Firefox!" width="88" height="31" /></a>
+      <a href="https://sourceforge.net/projects/codeblocks" class="social-link" target="_blank"> <img src="/images/sflogo.png" border="0" alt="Get Code::Blocks at SourceForge.net. Fast, secure and Free Open Source software downloads" width="88" height="31" /></a>
+      <!-- <a href="https://www.wxwidgets.org" class="social-link" target="_blank"><img src="/images/builtwithwx.gif" border="0" alt="Built with wxWidgets" width="117" height="49" /></a> -->
+      {{ partial "sidebar/social" .}}
+  </div>
+
+</header>

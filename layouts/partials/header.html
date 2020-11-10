@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang='{{ .Site.Language.Lang }}'>
+{{- partial "head/head" . -}}
+
+<body>
+
+  {{ partialCached "sidebar/sidebar" .}}
+
+  <!-- <nav> -->
+  <!--     <a href="#">FAQ</a> -->
+  <!--     <a href="#">Wiki</a> -->
+  <!--     <a href="#">Forums</a> -->
+  <!--     <a href="#">Nightlies</a> -->
+  <!--     <a href="#">Ticket System</a> -->
+  <!--     <a href="#">Browse SVN</a> -->
+  <!--     <a href="#">Browse SVN log</a> -->
+  <!-- </nav> -->
+
+  <div class="content-wrapper">
+    {{ if .Site.Params.breadcrumb }}
+      {{ partial "breadcrumb" .}}
+    {{ end }}
+    <main id="content" class="{{ .Section }}">
