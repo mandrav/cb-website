@@ -9,7 +9,7 @@ We want to thank the following donors for supporting our project:
  * [Advanced Downloading Ltd, London, UK](http://www.aldownloading.com/)
  * Other anonymous individual donors who are greatly respected for donating.
 
-If you want to support Code::Blocks by donating, click this button: [![](http://images.sourceforge.net/images/project-support.jpg "Support Code::Blocks")](http://sourceforge.net/donate/index.php?group_id=126998)
+If you want to support Code::Blocks by donating, click this button: [![](https://images.sourceforge.net/images/project-support.jpg "Support Code::Blocks")](https://sourceforge.net/donate/index.php?group_id=126998)
 
 If you have donated to this project and you don't see your name in the above list (and still you want to), please contact us.
 
