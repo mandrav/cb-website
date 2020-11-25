@@ -1,11 +1,11 @@
 /* dark mode begin */
-body {
+/*body {
     background-color: #333;
     color: #ddd;
 }
 .icon {
     fill: #aaa !important;
-}
+}*/
 /* dark mode end */
 
 #content, .breadcrumb {
