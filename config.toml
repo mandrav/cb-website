@@ -42,7 +42,7 @@ pygmentsCodeFences=true
 [params.sidebar]
   backgroundImage = '/images/cb_bg.png'
   gradientOverlay = 'rgba(0,0,0,0.2),rgba(0,0,0,0.8)'
-  logo = "/images/logo256.png"
+  logo = "/images/logo160.png"
 [params.assets]
   favicon = "/images/logo48.png"
   customCSS = "/css/custom.css"
