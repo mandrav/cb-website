@@ -1,6 +1,8 @@
 ---
 title: "Older releases"
 date: 2020-03-29
+aliases:
+  - 5 # old site url was /downloads/5
 draft: false
 ---
 The newest versions can be found [here](/downloads/binaries).
