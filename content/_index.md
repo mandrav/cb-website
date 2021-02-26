@@ -3,6 +3,7 @@ title: "Code::Blocks"
 description: The IDE with all the features you need, having a consistent look, feel and operation across platforms.
 date: 2020-11-07T20:21:15+02:00
 draft: false
+aliases: /home
 ---
 ### The free C/C++ and Fortran IDE.
 
