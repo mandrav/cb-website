@@ -84,14 +84,14 @@ pygmentsCodeFences=true
   identifier = "forums"
   name = "Forums"
   title = "Forums"
-  url = "http://forums.codeblocks.org"
+  url = "https://forums.codeblocks.org"
   weight = -90
 
 [[menu.main]]
   identifier = "wiki"
   name = "Wiki"
   title = "Wiki"
-  url = "http://wiki.codeblocks.org"
+  url = "https://wiki.codeblocks.org"
   weight = -90
 
 [[menu.main]]
