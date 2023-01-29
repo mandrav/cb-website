@@ -350,7 +350,7 @@ For the release 20.03, we provide a changelog hereby about what has changed sinc
 ## Drag scroll plugin:
 
  * Add user config option to reverse mouse wheel zoom
- * Fix right mouse click in project window. See http://forums.codeblocks.org/index.php/topic,22863.new.html
+ * Fix right mouse click in project window. See https://forums.codeblocks.org/index.php/topic,22863.new.html
  * Don't move cursor when using right mouse key (wx3.x)
 
 ## Environment variables plugin:
@@ -464,7 +464,7 @@ For the release 20.03, we provide a changelog hereby about what has changed sinc
 
 # Summary, for download
 
-Download the full changelog here: http://sourceforge.net/projects/codeblocks/files/Binaries/20.03/changelog
+Download the full changelog here: https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/changelog
 
 ## Older Changelogs
 

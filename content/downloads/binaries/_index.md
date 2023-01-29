@@ -11,9 +11,9 @@ Please select a setup package depending on your platform:
   * [Linux 32 and 64-bit](#imagesoslinux48pnglogo-linux-32-and-64-bit)
   * [Mac OS X](#imagesosapple48pnglogo-mac-os-x)
 
-**NOTE**: For older OS'es use older releases. There are releases for many OS version and platforms on the [Sourceforge.net](http://sourceforge.net/projects/codeblocks/files/Binaries) page.
+**NOTE**: For older OS'es use older releases. There are releases for many OS version and platforms on the [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries) page.
 
-**NOTE**: There are also more recent nightly builds available in the [forums](http://forums.codeblocks.org/index.php/board,20.0.html) or (for Ubuntu users) in the [Ubuntu PPA repository](https://launchpad.net/~codeblocks-devs/). Please note that we consider nightly builds to be stable, usually.
+**NOTE**: There are also more recent nightly builds available in the [forums](https://forums.codeblocks.org/index.php/board,20.0.html) or (for Ubuntu users) in the [Ubuntu PPA repository](https://launchpad.net/~codeblocks-devs/). Please note that we consider nightly builds to be stable, usually.
 
 **NOTE**: We have a [Changelog for 20.03](/changelogs/20.03), that gives you an overview over the enhancements and fixes we have put in the new release.
 
@@ -24,16 +24,16 @@ Please select a setup package depending on your platform:
 ## ![](/images/os/windows48.png#logo) Microsoft Windows
 | File 	                                     | Download from
 |--------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| codeblocks-20.03-setup.exe                 | [FossHUB](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03-setup.exe) or [Sourceforge.net](http://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03-setup.exe) |
-| codeblocks-20.03-setup-nonadmin.exe        | [FossHUB](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03-setup-nonadmin.exe) or [Sourceforge.net](http://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03-setup-nonadmin.exe) |
-| codeblocks-20.03-nosetup.zip               | [FossHUB](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03-nosetup.exe) or [Sourceforge.net](http://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03-nosetup.exe) |
-| codeblocks-20.03mingw-setup.exe            | [FossHUB](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-setup.exe) or [Sourceforge.net](http://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03mingw-setup.exe) |
-| codeblocks-20.03mingw-nosetup.zip          | [FossHUB](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-nosetup.exe) or [Sourceforge.net](http://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03mingw-nosetup.exe) |
-| codeblocks-20.03-32bit-setup.exe           | [FossHUB](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03-32bit-setup.exe) or [Sourceforge.net](http://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03-32bit-setup.exe) |
-| codeblocks-20.03-32bit-setup-nonadmin.exe  | [FossHUB](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03-32bit-setup-nonadmin.exe) or [Sourceforge.net](http://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03-32bit-setup-nonadmin.exe) |
-| codeblocks-20.03-32bit-nosetup.zip         | [FossHUB](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03-32bit-nosetup.exe) or [Sourceforge.net](http://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03-32bit-nosetup.exe) |
-| codeblocks-20.03mingw-32bit-setup.exe      | [FossHUB](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-32bit-setup.exe) or [Sourceforge.net](http://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03mingw-32bit-setup.exe) |
-| codeblocks-20.03mingw-32bit-nosetup.zip    | [FossHUB](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-32bit-nosetup.exe) or [Sourceforge.net](http://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03mingw-32bit-nosetup.exe) |
+| codeblocks-20.03-setup.exe                 | [FossHUB](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03-setup.exe) or [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03-setup.exe) |
+| codeblocks-20.03-setup-nonadmin.exe        | [FossHUB](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03-setup-nonadmin.exe) or [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03-setup-nonadmin.exe) |
+| codeblocks-20.03-nosetup.zip               | [FossHUB](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03-nosetup.exe) or [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03-nosetup.exe) |
+| codeblocks-20.03mingw-setup.exe            | [FossHUB](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-setup.exe) or [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03mingw-setup.exe) |
+| codeblocks-20.03mingw-nosetup.zip          | [FossHUB](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-nosetup.exe) or [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03mingw-nosetup.exe) |
+| codeblocks-20.03-32bit-setup.exe           | [FossHUB](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03-32bit-setup.exe) or [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03-32bit-setup.exe) |
+| codeblocks-20.03-32bit-setup-nonadmin.exe  | [FossHUB](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03-32bit-setup-nonadmin.exe) or [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03-32bit-setup-nonadmin.exe) |
+| codeblocks-20.03-32bit-nosetup.zip         | [FossHUB](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03-32bit-nosetup.exe) or [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03-32bit-nosetup.exe) |
+| codeblocks-20.03mingw-32bit-setup.exe      | [FossHUB](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-32bit-setup.exe) or [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03mingw-32bit-setup.exe) |
+| codeblocks-20.03mingw-32bit-nosetup.zip    | [FossHUB](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-32bit-nosetup.exe) or [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03mingw-32bit-nosetup.exe) |
 
 
 **NOTE**: The codeblocks-20.03-setup.exe file includes Code::Blocks with all plugins. The codeblocks-20.03-setup-nonadmin.exe file is provided for convenience to users that do not have administrator rights on their machine(s).
@@ -59,7 +59,7 @@ Please select a setup package depending on your platform:
 
 **Note**: The Linux packages above are compressed archives (tar, tar.xz or tar.bz2). When you decompress the package you downloaded on your system, you will find all the .rpm or .deb packages required to install Code::Blocks.
 
-**Note**: On RedHat/CentOS older revisions of 6 (up to 6.2 as far as we know) you need to add repoforge (former rpmforge) to your repolist, to be able to install the needed wxGTK-package. See http://repoforge.org/use for an instruction.
+**Note**: On RedHat/CentOS older revisions of 6 (up to 6.2 as far as we know) you need to add repoforge (former rpmforge) to your repolist, to be able to install the needed wxGTK-package. See https://repoforge.org/use for an instruction.
 
 **Note**: Redhat/CentOS probably also needs an installed hunspell-package, if you want to install the contrib-plugins.
 

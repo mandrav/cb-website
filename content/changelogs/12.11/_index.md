@@ -80,17 +80,17 @@ For the release 12.11, we provide a top-level changelog hereby about what has ch
 
 ## New plugins:
 
-- **Abbreviatons (extracted from the core)**: provides auto-completion (note that this has nothing to do with code completion): http://wiki.codeblocks.org/index.php?title=Abbreviations_plugin
-- **Cscope**: integrates the source code searching features of Cscope: http://wiki.codeblocks.org/index.php?title=Cscope_plugin
-- **DoxyBlocks**: support for doxygen inline documentation: http://wiki.codeblocks.org/index.php?title=DoxyBlocks_plugin
-- **EditorConfig**: http://forums.codeblocks.org/index.php/topic,16512.0.html
-- **EditorTweaks**: make one off changes to active editor (EOL mode, wrap etc) and code alignment tool: http://wiki.codeblocks.org/index.php?title=Editor_Tweaks_plugin
-- **FileManager**: tree view of the file system with support for basic file management operations in the management pane: http://wiki.codeblocks.org/index.php?title=File_Manager_plugin
-- **NassiShneiderman**: creation of Nassi Shneiderman diagrams: http://wiki.codeblocks.org/index.php?title=NassiShneiderman_plugin
+- **Abbreviatons (extracted from the core)**: provides auto-completion (note that this has nothing to do with code completion): https://wiki.codeblocks.org/index.php?title=Abbreviations_plugin
+- **Cscope**: integrates the source code searching features of Cscope: https://wiki.codeblocks.org/index.php?title=Cscope_plugin
+- **DoxyBlocks**: support for doxygen inline documentation: https://wiki.codeblocks.org/index.php?title=DoxyBlocks_plugin
+- **EditorConfig**: https://forums.codeblocks.org/index.php/topic,16512.0.html
+- **EditorTweaks**: make one off changes to active editor (EOL mode, wrap etc) and code alignment tool: https://wiki.codeblocks.org/index.php?title=Editor_Tweaks_plugin
+- **FileManager**: tree view of the file system with support for basic file management operations in the management pane: https://wiki.codeblocks.org/index.php?title=File_Manager_plugin
+- **NassiShneiderman**: creation of Nassi Shneiderman diagrams: https://wiki.codeblocks.org/index.php?title=NassiShneiderman_plugin
 - **ReopenEditor**: reopens last closed editor(s) via hotkey (Ctrl+Shift+t) or menu-item
 - **SmartIndent (extracted from the core)**: multi-language support for automatic indenting of code to match typical indentation styles
-- **SpellChecker**: check spelling in comments and strings using hunspell: http://wiki.codeblocks.org/index.php?title=SpellChecker_plugin
-- **ToolsPlus**: creation and management of custom tools: http://wiki.codeblocks.org/index.php?title=Tools%2B_plugin
+- **SpellChecker**: check spelling in comments and strings using hunspell: https://wiki.codeblocks.org/index.php?title=SpellChecker_plugin
+- **ToolsPlus**: creation and management of custom tools: https://wiki.codeblocks.org/index.php?title=Tools%2B_plugin
 
 ## Improved plugins:
 
@@ -116,6 +116,6 @@ For the release 12.11, we provide a top-level changelog hereby about what has ch
 
 # Summary, for download
 
-Download the short (this) changelog here: http://sourceforge.net/projects/codeblocks/files/Binaries/12.11/changelog
+Download the short (this) changelog here: https://sourceforge.net/projects/codeblocks/files/Binaries/12.11/changelog
 
-Download the full changelog here: http://sourceforge.net/projects/codeblocks/files/Binaries/12.11/changelog_fullgg
+Download the full changelog here: https://sourceforge.net/projects/codeblocks/files/Binaries/12.11/changelog_fullgg

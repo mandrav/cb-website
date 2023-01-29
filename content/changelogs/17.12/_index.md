@@ -122,7 +122,7 @@ For the release 17.12, we provide a changelog hereby about what has changed sinc
  * Allow to rename virtual folders via menu (patch by unknown person)
  * Select highlighting scheme from status bar for convenience (patch by unknown person)
  * Apply patch #80 - prevent asking for closing the workspace in batch builds (thanks Bat)
- * Applied patch by frithjofh w/ some refactoring for the search/replace dialog (see http://forums.codeblocks.org/index.php/topic,20849.msg142364.html#msg142364)
+ * Applied patch by frithjofh w/ some refactoring for the search/replace dialog (see https://forums.codeblocks.org/index.php/topic,20849.msg142364.html#msg142364)
  * Remove (new) from the name of the watches window
  * fixed wrong message in batch builds on errors
  * Use the app window in cbGetSingleChoiceIndex and cbGetTextFromUser as parent when nullptr is passed
@@ -224,7 +224,7 @@ For the release 17.12, we provide a changelog hereby about what has changed sinc
  * Added arduino and msp430 wizards (patch by unknown person)
  * Added SDL2 wizard (patch by unknown person)
  * Added wizard for D language (patch by unknown person)
- * **Applied (modified) patch by stahta01 to relax wizards when searching for library files to link against, see**: http://forums.codeblocks.org/index.php/topic,20730.msg142215.html#msg142215
+ * **Applied (modified) patch by stahta01 to relax wizards when searching for library files to link against, see**: https://forums.codeblocks.org/index.php/topic,20730.msg142215.html#msg142215
 
 ## Spell Checker
 
@@ -265,7 +265,7 @@ For the release 17.12, we provide a changelog hereby about what has changed sinc
  * Add wxSpinCtrl alignment styles
  * Fix drawing artefacts when built with wx3.0
  * Don't write \0 characters in generated/altered files when C::B is built with wx3.x
- * **Fix crash, when closing wxs-file and a sub-property is selected; see**: http://forums.codeblocks.org/index.php/topic,21893.0.html
+ * **Fix crash, when closing wxs-file and a sub-property is selected; see**: https://forums.codeblocks.org/index.php/topic,21893.0.html
  * Improve compatibility with wx3.x by adding some new events and removing events that aren't supported (thanks mgimenez)
  * Sort generated includes and forward declartion to prevent random changes to the source files when the hash function changes
  * Fix the resizing of the ArrayStringEditor dialog
@@ -332,7 +332,7 @@ For the release 17.12, we provide a changelog hereby about what has changed sinc
 
 # Summary, for download
 
-Download the full changelog here: http://sourceforge.net/projects/codeblocks/files/Binaries/17.12/changelog
+Download the full changelog here: https://sourceforge.net/projects/codeblocks/files/Binaries/17.12/changelog
 
 ## Older Changelogs
 

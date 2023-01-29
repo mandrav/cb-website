@@ -5,8 +5,8 @@ draft: false
 ---
 We want to thank the following donors for supporting our project:
 
- * [HighTec EDV-Systeme GmbH](http://www.hightec-rt.com/)
- * [Advanced Downloading Ltd, London, UK](http://www.aldownloading.com/)
+ * [HighTec EDV-Systeme GmbH](https://www.hightec-rt.com/)
+ * [Advanced Downloading Ltd, London, UK](https://www.aldownloading.com/)
  * Other anonymous individual donors who are greatly respected for donating.
 
 If you want to support Code::Blocks by donating, click this button: [![](https://images.sourceforge.net/images/project-support.jpg "Support Code::Blocks")](https://sourceforge.net/donate/index.php?group_id=126998)
