@@ -24,11 +24,11 @@ Sample command line:
 
 Repository URL:
 
-    http://svn.code.sf.net/p/codeblocks/code/trunk
+    https://svn.code.sf.net/p/codeblocks/code/trunk
 
 Sample command line:
 
-    svn checkout http://svn.code.sf.net/p/codeblocks/code/trunk
+    svn checkout https://svn.code.sf.net/p/codeblocks/code/trunk
 
 ---
  

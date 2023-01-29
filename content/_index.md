@@ -11,8 +11,8 @@ Code::Blocks is a free C/C++ and Fortran IDE built to meet the most demanding ne
 
 Built around a plugin framework, Code::Blocks can be extended with plugins. Any kind of functionality can be added by installing/coding a plugin. For instance, event compiling and debugging functionality is provided by plugins!
 
-If you 're new here, you can read the [user manual](/user-manual) or visit the [Wiki](http://wiki.codeblocks.org) for documentation.
-And don't forget to visit and join our [forums](http://forums.codeblocks.org) to find help or general discussion about Code::Blocks.
+If you 're new here, you can read the [user manual](/user-manual) or visit the [Wiki](https://wiki.codeblocks.org) for documentation.
+And don't forget to visit and join our [forums](https://forums.codeblocks.org) to find help or general discussion about Code::Blocks.
 
 We hope you enjoy using Code::Blocks!
 

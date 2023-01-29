@@ -66,9 +66,9 @@ For the release 13.12, we provide a top-level changelog hereby about what has ch
 - **AStyle**: Applied patch #3478: Add line breaking option to AStyle
 - **DoxyBlocks**: Support projects located in path with spaces or other strange characters. Bug fixes.
 - **EditorTweaks**: Bug fixes, add features
-- **Header Fixup**: Fixed issue reported here: http://forums.codeblocks.org/index.php/topic,17095.0.html
+- **Header Fixup**: Fixed issue reported here: https://forums.codeblocks.org/index.php/topic,17095.0.html
 - **Incremental Search**: Avoid conflict in indicators. Add search history with configurable length.
-(New) - Occurrence Highlighting: Move occurrence highlighting code from cbEditor into a plugin. (refer here: http://forums.codeblocks.org/index.php/topic,18207.0.html)
+(New) - Occurrence Highlighting: Move occurrence highlighting code from cbEditor into a plugin. (refer here: https://forums.codeblocks.org/index.php/topic,18207.0.html)
 - **Smart Indent**: Enable on entire C-language family.
 - **Spell Checker**: Fixed bugs. Improve handling of missing dictionaries.
 - **Thread Search**: Fixed bugs. Improvements to the UI.
@@ -76,9 +76,9 @@ For the release 13.12, we provide a top-level changelog hereby about what has ch
 
 # Summary, for download
 
-Download the short (this) changelog here: http://sourceforge.net/projects/codeblocks/files/Binaries/13.12/changelog
+Download the short (this) changelog here: https://sourceforge.net/projects/codeblocks/files/Binaries/13.12/changelog
 
-Download the full changelog here: http://sourceforge.net/projects/codeblocks/files/Binaries/13.12/changelog_full
+Download the full changelog here: https://sourceforge.net/projects/codeblocks/files/Binaries/13.12/changelog_full
 
 ## Older Changelogs
 

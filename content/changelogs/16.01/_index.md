@@ -294,9 +294,9 @@ For the release 16.01, we provide a top-level changelog hereby about what has ch
 
 # Summary, for download
 
-Download the short (this) changelog here: http://sourceforge.net/projects/codeblocks/files/Binaries/16.01/changelog
+Download the short (this) changelog here: https://sourceforge.net/projects/codeblocks/files/Binaries/16.01/changelog
 
-Download the full changelog here: http://sourceforge.net/projects/codeblocks/files/Binaries/16.01/changelog_full
+Download the full changelog here: https://sourceforge.net/projects/codeblocks/files/Binaries/16.01/changelog_full
 
 ## Older Changelogs
 

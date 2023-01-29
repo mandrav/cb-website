@@ -11,7 +11,7 @@ There are different ways to download and install Code::Blocks on your computer:
 
   * ### Download a nightly build
 
-    There are also more recent so-called nightly builds available in the [forums](http://forums.codeblocks.org/index.php/board,20.0.html). Please note that we consider nightly builds to be stable, usually, unless stated otherwise.  
+    There are also more recent so-called nightly builds available in the [forums](https://forums.codeblocks.org/index.php/board,20.0.html). Please note that we consider nightly builds to be stable, usually, unless stated otherwise.  
   * Other distributions usually follow provided by the community (big "Thank you!" for that!). If you want to provide some, make sure to announce in the forums such that we can put it on the official C::B homepage.
 
 * ### [Download the source code](/downloads/source)

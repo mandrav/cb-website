@@ -7,19 +7,19 @@ aliases:
 ---
 Should you want to download the source code of Code::Blocks **13.12**, here are the links:
 
-http://sourceforge.net/projects/codeblocks/files/Sources/13.12
+https://sourceforge.net/projects/codeblocks/files/Sources/13.12
 
 Should you want to download the source code of Code::Blocks **12.11**, here are the links:
 
-http://sourceforge.net/projects/codeblocks/files/Sources/12.11
+https://sourceforge.net/projects/codeblocks/files/Sources/12.11
 
 Should you want to download the source code of Code::Blocks **10.05**, here are the links:
 
-http://sourceforge.net/projects/codeblocks/files/Sources/10.05
+https://sourceforge.net/projects/codeblocks/files/Sources/10.05
 
 Should you want to download the source code of Code::Blocks **8.02**, here are the links:
 
-http://sourceforge.net/projects/codeblocks/files/Sources/8.02
+https://sourceforge.net/projects/codeblocks/files/Sources/8.02
 
 The newest version is [here](/downloads/source).
 
