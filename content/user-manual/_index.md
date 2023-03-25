@@ -19,6 +19,6 @@ For the current versions please choose:
  * [French manual, chm format](/docs/manual_codeblocks_fr.chm)
  * [French manual, HTML format](/docs/main_codeblocks_fr.html)
 
-The documentation is written in [LaTeX](https://en.wikipedia.org/wiki/LaTeX) and can be retrieved from SVN using the address: https://svn.code.sf.net/p/codeblocks/code/docs.
+The documentation is written in [LaTeX](https://en.wikipedia.org/wiki/LaTeX) and can be retrieved from SourceForge.net using the address: https://sourceforge.net/projects/codeblocks-gd-user-manual.
 
 Any addition or translation is welcome - please contact the developers through the forum.
