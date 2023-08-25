@@ -1,0 +1,7 @@
+googleAnalytics: ""
+privacy:
+  googleAnalytics:
+    anonymizeIP: true
+    disable: true
+    respectDoNotTrack: true
+    useSessionStorage: false

@@ -1,0 +1,105 @@
+baseURL: "https://www.codeblocks.org"
+languageCode: "en-us"
+title: "Code::Blocks"
+theme: "personal-web"
+copyright: "©2020 Code::Blocks"
+enableEmoji: true
+enableRobotsTXT: true
+pygmentsUseClasses: true
+pygmentsCodeFences: true
+
+taxonomies:
+  design: "designs"
+  tech: "techs"
+
+params:
+  breadcrumb: true
+  accentColor: "#FD3519"
+  mainSections: ['post']
+  intro:
+    main: "Code::Blocks"
+    sub: "The IDE with all the features you need, having a consistent look, feel and operation across platforms."
+  main:
+    latestPublishHeader: "Latest news"
+  notFound:
+    gopher: "/images/gopher.png" # checkout https://gopherize.me/
+    h1: 'Bummer!'
+    p: "It seems that this page doesn't exist."
+  sections:
+    post: "article"
+    portfolio: "project"
+  sidebar:
+    backgroundImage: '/images/cb_bg.png'
+    gradientOverlay: 'rgba(0,0,0,0.2),rgba(0,0,0,0.8)'
+    logo: "/images/logo160.png"
+  assets:
+    favicon: "/images/logo48.png"
+    customCSS: "/css/custom.css"
+  social:
+    github: "" # "https://github.com/"
+    twitter: "" # "https://twitter.com/"
+    linkedin: "" # "https://www.linkedin.com/in/"
+    medium: "" # "https://medium.com/"
+    codepen: "" # "https://codepen.io/"
+    facebook: "" # "https://www.facebook.com/"
+    youtube: "" # "https://www.youtube.com/"
+    instagram: "" # "https://www.instagram.com/"
+    gitlab: "" # "https://gitlab.com/"
+    keybase: "" # "https://keybase.io/"
+  contact:
+    email: "info@codeblocks.org"
+    text:  ""
+
+sitemap:
+  changefreq: "monthly"
+  filename: "sitemap.xml"
+  priority: 0.5
+
+privacy:
+  twitter:
+    disable: false
+    enableDNT: true
+    simple: false
+
+menus:
+  main:
+    - name: "Features"
+      identifier: "features"
+      title: "Features"
+      url: "/features/"
+      weight: -110
+    - name: "Downloads"
+      identifier: "downloads"
+      title: "Downloads"
+      url: "/downloads/"
+      weight: -100
+    - name: "Forums"
+      identifier: "forums"
+      title: "Forums"
+      url: "https://forums.codeblocks.org"
+      weight: -90
+    - name: "Wiki"
+      identifier: "wiki"
+      title: "Wiki"
+      url: "https://wiki.codeblocks.org"
+      weight: -90
+    - name: "License"
+      identifier: "license"
+      title: "License"
+      url: "/license/"
+      weight: -80
+    - name: "Donations"
+      identifier: "donations"
+      title: "Donations"
+      url: "/donations/"
+      weight: -60
+    - name: "User manual"
+      identifier: "docs"
+      title: "User manual"
+      url: "/user-manual/"
+      weight: -95
+    - name: "News"
+      identifier: "blog"
+      title: "News section"
+      url: "/post/"
+      weight: -120
