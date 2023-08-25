@@ -1,0 +1,139 @@
+baseURL = "https://staging.codeblocks.org"
+languageCode = "en-us"
+title = "Code::Blocks"
+theme = "personal-web"
+copyright="©2020 Code::Blocks"
+googleAnalytics = ""
+enableEmoji=true
+enableRobotsTXT=true
+pygmentsUseClasses=true
+pygmentsCodeFences=true
+
+[params.intro]
+  main = "Code::Blocks"
+  sub = "The IDE with all the features you need, having a consistent look, feel and operation across platforms."
+
+[params.main]
+  latestPublishHeader = "Latest news"
+
+[taxonomies]
+  design = "designs"
+  tech = "techs"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[params]
+  breadcrumb = true
+  accentColor = "#FD3519"
+  mainSections = ['post']
+
+[params.notFound]
+  gopher = "/images/gopher.png" # checkout https://gopherize.me/
+  h1 = 'Bummer!'
+  p = "It seems that this page doesn't exist."
+
+[params.sections]
+  # Define how your sections will be called
+  # when automatically pulled. For instance in the 404 page
+  post = "article"
+  portfolio = "project"
+
+[params.sidebar]
+  backgroundImage = '/images/cb_bg.png'
+  gradientOverlay = 'rgba(0,0,0,0.2),rgba(0,0,0,0.8)'
+  logo = "/images/logo160.png"
+[params.assets]
+  favicon = "/images/logo48.png"
+  customCSS = "/css/custom.css"
+
+[params.social]
+  github = "" # "https://github.com/"
+  twitter = "" # "https://twitter.com/"
+  linkedin = "" # "https://www.linkedin.com/in/"
+  medium = "" # "https://medium.com/"
+  codepen = "" # "https://codepen.io/"
+  facebook = "" # "https://www.facebook.com/"
+  youtube = "" # "https://www.youtube.com/"
+  instagram = "" # "https://www.instagram.com/"
+  gitlab = "" # "https://gitlab.com/"
+  keybase = "" # "https://keybase.io/"
+
+[params.contact]
+  email = "info@codeblocks.org"
+  text= ""
+
+
+[menu]
+
+[[menu.main]]
+  identifier = "features"
+  name = "Features"
+  title = "Features"
+  url = "/features/"
+  weight = -110
+
+[[menu.main]]
+  identifier = "downloads"
+  name = "Downloads"
+  title = "Downloads"
+  url = "/downloads/"
+  weight = -100
+
+[[menu.main]]
+  identifier = "forums"
+  name = "Forums"
+  title = "Forums"
+  url = "https://forums.codeblocks.org"
+  weight = -90
+
+[[menu.main]]
+  identifier = "wiki"
+  name = "Wiki"
+  title = "Wiki"
+  url = "https://wiki.codeblocks.org"
+  weight = -90
+
+[[menu.main]]
+  identifier = "license"
+  name = "License"
+  title = "License"
+  url = "/license/"
+  weight = -80
+
+[[menu.main]]
+  identifier = "donations"
+  name = "Donations"
+  title = "Donations"
+  url = "/donations/"
+  weight = -60
+
+[[menu.main]]
+  identifier = "docs"
+  name = "User manual"
+  title = "User manual"
+  url = "/user-manual/"
+  weight = -95
+
+[[menu.main]]
+  identifier = "blog"
+  name = "News"
+  title = "News section"
+  url = "/post/"
+  weight = -120
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false
