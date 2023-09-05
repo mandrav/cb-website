@@ -1,0 +1,42 @@
+main:
+  - name: "Features"
+    identifier: "features"
+    title: "Features"
+    url: "/features/"
+    weight: -110
+  - name: "Downloads"
+    identifier: "downloads"
+    title: "Downloads"
+    url: "/downloads/"
+    weight: -100
+  - name: "Forums"
+    identifier: "forums"
+    title: "Forums"
+    url: "https://forums.stage.codeblocks.org"
+    weight: -90
+  - name: "Wiki"
+    identifier: "wiki"
+    title: "Wiki"
+    url: "https://wiki.stage.codeblocks.org"
+    weight: -90
+  - name: "License"
+    identifier: "license"
+    title: "License"
+    url: "/license/"
+    weight: -80
+  - name: "Donations"
+    identifier: "donations"
+    title: "Donations"
+    url: "/donations/"
+    weight: -60
+  - name: "User manual"
+    identifier: "docs"
+    title: "User manual"
+    url: "/user-manual/"
+    weight: -95
+  - name: "News"
+    identifier: "blog"
+    title: "News section"
+    url: "/post/"
+    weight: -120
+

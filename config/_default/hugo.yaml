@@ -76,12 +76,12 @@ menus:
     - name: "Forums"
       identifier: "forums"
       title: "Forums"
-      url: "https://forums.codeblocks.org"
+      url: "https://forums.dev.codeblocks.org"
       weight: -90
     - name: "Wiki"
       identifier: "wiki"
       title: "Wiki"
-      url: "https://wiki.codeblocks.org"
+      url: "https://wiki.dev.codeblocks.org"
       weight: -90
     - name: "License"
       identifier: "license"
@@ -103,3 +103,4 @@ menus:
       title: "News section"
       url: "/post/"
       weight: -120
+
