@@ -1,7 +1,7 @@
 ---
 title: "Don't forget the nightlies!"
 description: "Many new features"
-date: "2024-08-29T20:42+02:00"
+date: "2024-08-29T20:42:00+02:00"
 draft: false
 ---
 This is a short info about the state of the project: We are still developing for you, please check out the nightlies!
