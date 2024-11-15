@@ -12,12 +12,12 @@ main:
   - name: "Forums"
     identifier: "forums"
     title: "Forums"
-    url: "https://forums.stage.codeblocks.org"
+    url: "https://forums.cb-stg.codeblocks.org"
     weight: -90
   - name: "Wiki"
     identifier: "wiki"
     title: "Wiki"
-    url: "https://wiki.stage.codeblocks.org"
+    url: "https://wiki.cb-stg.codeblocks.org"
     weight: -90
   - name: "License"
     identifier: "license"
